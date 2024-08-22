@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  padding-top:40%;
+  
+  
+}
+button{
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  width: 85px;
+  font-size: 20px;
+  font-weight:700 ;
+}
+
+

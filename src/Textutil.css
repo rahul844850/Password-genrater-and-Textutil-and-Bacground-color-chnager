@@ -1,0 +1,14 @@
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration: underline;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.p1{
+    font-weight: bold;
+    font-size: 30px;
+}
+button
+{
+    margin: 10px;
+}
